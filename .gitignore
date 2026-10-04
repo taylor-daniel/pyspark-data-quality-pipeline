@@ -1,0 +1,18 @@
+# generated data and run outputs
+data/
+*.parquet
+.crc
+_SUCCESS
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
